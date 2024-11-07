@@ -1,0 +1,8 @@
+Django
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.2.2
+pillow==9.4.0
+django-cors-headers==3.14.0
+python-decouple
+drf-spectacular==0.26.1
+channels==3.0.4
